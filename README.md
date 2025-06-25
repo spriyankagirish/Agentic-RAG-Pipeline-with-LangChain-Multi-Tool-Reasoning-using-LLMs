@@ -7,7 +7,7 @@
 
 ## 📘 Project Overview
 
-This project showcases an **agentic workflow** built using **LangChain agents** that intelligently combine multiple tools to answer complex user queries. The system dynamically decides which tools to invoke — such as retrievers, calculators, or document readers — and orchestrates them to generate accurate and context-aware responses.
+This project showcases an **agentic workflow** built using **LangChain agents** that intelligently combine multiple tools to answer complex user queries. The system dynamically decides which tools to invoke - such as retrievers, calculators, or document readers - and orchestrates them to generate accurate and context-aware responses.
 
 Built with a focus on **multi-step reasoning**, this agent pipeline simulates real-world decision-making and demonstrates how language models can autonomously choose the right operations to fulfill user requests.
 
