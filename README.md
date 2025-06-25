@@ -18,9 +18,8 @@ Built with a focus on **multi-step reasoning**, this agent pipeline simulates re
 * 🐍 **Python**
 * 🔗 **LangChain**
 * 🤖 **LangChain Agents & Tools**
-* 🧠 **LLMs** (OpenAI, Gemini, or custom)
-* 🔍 **Retrievers / Vector DBs** (Optional, if used)
-* 🗃️ **Document Loaders & Memory** (if used)
+* 🧠 **LLMs** ( Gemini)**
+  
 
 ---
 
