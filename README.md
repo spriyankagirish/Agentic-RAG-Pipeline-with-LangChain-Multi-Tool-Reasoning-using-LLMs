@@ -38,10 +38,10 @@ Built with a focus on **multi-step reasoning**, this agent pipeline simulates re
 ## 🧪 Example Use Case
 
 ```markdown
-**User Query:**  
+User Query: 
 "What's the average temperature in Delhi over the last week, and how does it compare to Mumbai?"
 
-**Agent Flow:**  
+Agent Flow: 
 1. Uses a search tool to fetch weather data  
 2. Uses calculator tool to compute averages  
 3. Compares both and returns a natural language summary  
